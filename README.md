@@ -25,16 +25,16 @@
 ### Reg ###
 Вход в аккаунт. Создание фамилии (семейство персонажей) и конкретного нового персонажа.
 
-![Registration](http://s012.radikal.ru/i320/1611/2e/7c99f7faca8b.gif)
+![Registration](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s1'.gif?raw=true)
 
 ### Login ###
 Выбор персонажа. Вход в игру.
-![Login](http://s019.radikal.ru/i633/1611/da/7274382bc7f4.gif)
+![Login](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s2'.gif?raw=true)
 
 ### Sync1 ###
 Пример синхронизации движения, анимации, стрельбы, здоровья.
-![Sync1](http://s41.radikal.ru/i093/1611/78/394bbd58b152.gif)
+![Sync1](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s3'.gif?raw=true)
 
 ### Sync2 ###
 Пример синхронизации убийства врага и его респаун.
-![Sync2](http://s020.radikal.ru/i712/1611/68/33dbfa57c7d2.gif)
+![Sync2](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s4'.gif?raw=true)
