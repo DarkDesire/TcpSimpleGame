@@ -1,0 +1,14 @@
+#### Unity
+obj/
+Library/
+Build/
+Build-x86/
+Build-x86_64/
+Temp/
+
+### Visual Studio
+*.vs/
+*.csproj
+*.sln
+*.userprefs
+packages/
