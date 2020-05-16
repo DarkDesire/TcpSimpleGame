@@ -25,7 +25,7 @@
 ### Reg ###
 Вход в аккаунт. Создание фамилии (семейство персонажей) и конкретного нового персонажа.
 
-![Registration](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s1'.gif?raw=true)
+![Registration](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s1.gif?raw=true)
 
 ### Login ###
 Выбор персонажа. Вход в игру.
