@@ -29,12 +29,12 @@
 
 ### Login ###
 Выбор персонажа. Вход в игру.
-![Login](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s2'.gif?raw=true)
+![Login](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s2.gif?raw=true)
 
 ### Sync1 ###
 Пример синхронизации движения, анимации, стрельбы, здоровья.
-![Sync1](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s3'.gif?raw=true)
+![Sync1](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s3.gif?raw=true)
 
 ### Sync2 ###
 Пример синхронизации убийства врага и его респаун.
-![Sync2](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s4'.gif?raw=true)
+![Sync2](https://github.com/DarkDesire/TcpSimpleGame/blob/master/s4.gif?raw=true)
